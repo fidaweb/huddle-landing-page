@@ -1,3 +1,4 @@
+# You can find the deployed site at https://fidaweb.github.io/huddle-landing-page/
 # Frontend Mentor - Huddle landing page with curved sections
 
 ![Header/intro section for the Huddle landing page with curved sections](./design/desktop-preview.jpg)
